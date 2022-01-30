@@ -1,0 +1,21 @@
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+.p-text {
+  font-size: 15px;
+}
+
+#card-btn:hover {
+  background-color: #1f55a7;
+  color: white;
+}
+
+footer {
+  background: #0b0d17;
+}
+.foooter-text {
+  font-size: 14px;
+}
